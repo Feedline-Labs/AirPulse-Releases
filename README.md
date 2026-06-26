@@ -20,4 +20,6 @@ https://feedlinelabs.com
 
 ## Support
 
-https://discord.gg/<your-discord>
+Join the Feedline Labs Discord:
+
+https://discord.com/invite/YEtb6c9d6b
