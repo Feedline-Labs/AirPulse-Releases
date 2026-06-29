@@ -1,7 +1,7 @@
 # AirPulse Platforms
 
 <img width="880" height="495" alt="AirPulseOpSys"
-     src="https://github.com/user-attachments/assets/dc89a7cd-1dbf-4de9-adca-1be6fc616d6a" />
+     src="https://github.com/user-attachments/assets/56df1d25-4bc5-44d7-85c4-9f5200d10bf5" />
 
 # AirPulse Releases
 
