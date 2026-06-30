@@ -25,6 +25,49 @@ Raspberry PI: https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
 
 Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
+## Accessing the Control Panel
+
+This Computer
+http://localhost:5050/control-panel.html
+
+Network
+http://192.168.1.224:5050/control-panel.html (IP will vary, see below)
+
+Hostname
+http://airpulse-node.local:5050/control-panel.html   (when available)
+
+## Find Your AirPulse.Node IP Address
+
+### Windows:
+
+Open **Command Prompt** and run:
+
+```text
+ipconfig
+```
+
+Look for the **IPv4 Address** under your active Wi-Fi or Ethernet adapter:
+
+```text
+IPv4 Address. . . . . . . . . . . : 192.168.1.224
+```
+
+#### Raspberry Pi / Linux:
+
+Run:
+
+```bash
+hostname -I
+```
+
+#### macOS:
+
+Open **Terminal** and run:
+
+```bash
+ipconfig getifaddr en0
+```
+
 ## Documentation
 
 https://feedlinelabs.com
