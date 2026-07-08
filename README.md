@@ -27,6 +27,10 @@ Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
 macOS : https://feedlinelabs.com/airpulse-macos-setup.html
 
+## Install 2.0 - Updater (DO NOT USE YET)
+
+Raspberry Pi : https://feedlinelabs.com/airpulse-raspberry-pi-setup-updater.html
+
 ## Accessing the Control Panel
 
 This Computer
