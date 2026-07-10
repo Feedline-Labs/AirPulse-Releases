@@ -3,6 +3,31 @@
 <img width="880" height="495" alt="AirPulseOpSys"
      src="https://github.com/user-attachments/assets/42bdd479-0524-4d08-9ad2-0739c91816c8" />
 
+## Video Guides
+
+### 1. Raspberry Pi: Flash Raspberry Pi OS
+
+<a href="https://www.youtube.com/watch?v=1qsGC4G07vs">
+  <img width="420" alt="Raspberry Pi Flash Linux OS"
+       src="https://img.youtube.com/vi/1qsGC4G07vs/hqdefault.jpg" />
+</a>
+
+**▶ Watch on YouTube:**  
+https://www.youtube.com/watch?v=1qsGC4G07vs
+
+---
+
+### 2. Install AirPulse.Node on Raspberry Pi
+
+<a href="https://www.youtube.com/watch?v=_lqglhpKzsI">
+  <img width="420" alt="Install AirPulse.Node on Raspberry Pi"
+       src="https://img.youtube.com/vi/_lqglhpKzsI/hqdefault.jpg" />
+</a>
+
+**▶ Watch on YouTube:**  
+https://www.youtube.com/watch?v=_lqglhpKzsI
+      
+ 
 # AirPulse Releases
 
 Official binary releases for Feedline Labs AirPulse.
