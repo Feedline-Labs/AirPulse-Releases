@@ -5,13 +5,13 @@
 
 # Get a Free License
 
-* Register on FeedlineLabs.com — 
+* REGISTER ON FEEDLINELABS.COM — 
 Create your free Feedline Labs account, it takes about a minute.
 
-* Confirm your email — 
+* CONFIRM YOUR EMAIL — 
 Click the confirmation link we send to verify your account and unlock your profile.
 
-* Request a free AirPulse license — 
+* REQUEST A FREE AIRPULSE LICENSE — 
 Sign in, open your Profile, and request a free AirPulse license, then start reporting live.
 
 # Purchases
