@@ -14,9 +14,9 @@ Click the confirmation link we send to verify your account and unlock your profi
 * Request a free AirPulse license — 
 Sign in, open your Profile, and request a free AirPulse license, then start reporting live.
 
-# BYOH or Purchases
+# Purchases
+NOTE: You can download the software and run AirPulse on your own equipment
 
-* Bring Your Own Hardware
 * Purchase - https://airpulse.feedlinelabs.com/purchase.html
      
 # Video Guides
