@@ -58,7 +58,7 @@ This repository contains release packages for:
 | macOS — Intel         | `AirPulse.Node.MacOS.Intel.x64`          |
 
 
-# Install
+# Installation Instructions
 
 Raspberry PI:  https://feedlinelabs.com/airpulse-raspberry-pi-setup-updater.html
 
