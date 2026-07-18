@@ -66,6 +66,8 @@ Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
 macOS : https://feedlinelabs.com/airpulse-macos-setup.html
 
+windows : https://feedlinelabs.com/airpulse-windows-setup.html
+
 # Accessing the UI via the Control Panel
 <img width="2283" height="1381" alt="UI" src="https://github.com/user-attachments/assets/0ab55a79-c7ec-48ba-bc82-ccf1d0eb2706" />
 
