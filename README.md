@@ -38,73 +38,45 @@ This repository contains release packages for:
 - Raspberry Pi (ARM64)
 - Linux (x64)
 
-Source code is not included.
+# Install
 
-## Downloads
-
-Download the latest version from the Releases page.
-
-## Install
-
-Raspberry PI: https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
+Raspberry PI:  https://feedlinelabs.com/airpulse-raspberry-pi-setup-updater.html
 
 Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
 macOS : https://feedlinelabs.com/airpulse-macos-setup.html
 
-## Install 2.0 - Updater (DO NOT USE YET)
+# Accessing the UI via the Control Panel
 
-Raspberry Pi : https://feedlinelabs.com/airpulse-raspberry-pi-setup-updater.html
+The AirPulse control panel is web-based on all platforms. Here's how to connect to it:
 
-## Accessing the Control Panel
+## Windows
 
-This Computer
-http://localhost:5050/control-panel.html
+* http://localhost:5000/control-panel.html
+* http://127.0.0.1:5000/control-panel.html
 
-Network
-http://192.168.1.224:5050/control-panel.html (IP will vary, see below)
+or 
 
-Hostname
-http://airpulse-node.local:5050/control-panel.html   (when available)
-
-## Find Your AirPulse.Node IP Address
-
-### Windows:
-
-Open **Command Prompt** and run:
-
-```text
-ipconfig
-```
-
+Run "ipcondig" in a CMD winodow.
 Look for the **IPv4 Address** under your active Wi-Fi or Ethernet adapter:
 
 ```text
 IPv4 Address. . . . . . . . . . . : 192.168.1.224
 ```
 
-#### Raspberry Pi / Linux:
+* http:// 192.168.1.224:5000/control-panel.html
 
-Run:
+## Raspberry Pi 
 
-```bash
-hostname -I
-```
+* See Step #3 in https://feedlinelabs.com/airpulse-raspberry-pi-setup-updater.html
 
-#### macOS:
+## macOS
 
-Open **Terminal** and run:
+* ipconfig getifaddr en0
 
-```bash
-ipconfig getifaddr en0
-```
+# Support
 
-## Documentation
-
-https://feedlinelabs.com
-
-## Support
+[Email Feedline Labs Support](mailto:support@feedlinelabs.com)
 
 Join the Feedline Labs Discord:
-
 https://discord.com/invite/YEtb6c9d6b
