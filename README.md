@@ -73,12 +73,12 @@ windows : https://feedlinelabs.com/airpulse-windows-setup.html
 
 The AirPulse control panel is web-based on all platforms. Here's how to connect to it:
 
-==> http://**{ADDRESS-HERE}**:5000/control-panel.html
+==> http://**{ADDRESS-HERE}**:5050/control-panel.html
 
 ## Windows
 
-* http://localhost:5000/control-panel.html
-* http://127.0.0.1:5000/control-panel.html
+* http://localhost:5050/control-panel.html
+* http://127.0.0.1:5050/control-panel.html
 
 or 
 
@@ -89,7 +89,7 @@ Look for the **IPv4 Address** under your active Wi-Fi or Ethernet adapter:
 IPv4 Address. . . . . . . . . . . : 192.168.1.224
 ```
 
-* http://192.168.1.224:5000/control-panel.html
+* http://192.168.1.224:5050/control-panel.html
 
 ## Raspberry Pi 
 
